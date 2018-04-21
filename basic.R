@@ -69,6 +69,3 @@ write.csv(my_df, file = "/Users/ANCHAL/Desktop/Msc lab/sample.csv", row.names = 
 
 read_mydf <- read.csv(file = "/Users/ANCHAL/Desktop/Msc lab/sample.csv", header = FALSE) ### if header = TRUE, first row is treated as header
 read_mydf
-
-### Self-study: Please check yourself how other file formats are saved in R. To get help, write <?function_name()> in your R console. E.g., to get help on write.table, write on console ?write.table()
-
